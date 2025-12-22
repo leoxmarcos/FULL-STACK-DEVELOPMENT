@@ -39,12 +39,6 @@ You’ll move step-by-step through:
 - 🔐 Authentication & security best practices  
 - 🚀 Deployment, CI/CD & DevOps workflows  
 
-🎯 **Mission:**  
-Enable you to **design, build, deploy, and scale** high-quality full-stack applications with confidence — not just tutorials, but **real production-grade systems**.
-
-⚡ By the end of this journey, you won’t just *know* full-stack development —  
-you’ll be able to **think, architect, and ship like a professional developer**.
-
 ---
 ## 💻 Tech Stack
 
