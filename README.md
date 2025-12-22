@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- Animated Main Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=38&pause=1200&color=00E6FF&center=true&vCenter=true&width=1100&height=90&lines=🚀+Full-Stack+Development+Mastery;Frontend+⚡+Backend+⚡+DevOps;Build+Real-World+Production+Apps" />
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=34&pause=1200&color=7C7CFF&center=true&vCenter=true&width=900&height=80&lines=🚀+Full-Stack+Development+Mastery;Build+Production-Ready+Web+Apps" />
 
-### *From Zero → Industry-Ready Full-Stack Developer*
-
-<br/>
-
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=for-the-badge&logo=github&color=FFD700)](https://github.com/yourusername/repo-name/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/repo-name?style=for-the-badge&logo=github&color=00E6FF)](https://github.com/yourusername/repo-name/network/members)
-[![Issues](https://img.shields.io/github/issues/yourusername/repo-name?style=for-the-badge&logo=github&color=FF4D4D)](https://github.com/yourusername/repo-name/issues)
-[![License](https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge)](LICENSE)
+### **From Fundamentals → Real-World Full-Stack Applications**
 
 <br/>
 
-[🌐 Live Demo](https://your-demo-link.com) •
-[📖 Docs](https://your-docs-link.com) •
-[🐛 Report Bug](https://github.com/yourusername/repo-name/issues) •
-[✨ Request Feature](https://github.com/yourusername/repo-name/issues)
+[![Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=flat-square&logo=github&color=7C7CFF)]
+[![Forks](https://img.shields.io/github/forks/yourusername/repo-name?style=flat-square&logo=github&color=38BDF8)]
+[![Issues](https://img.shields.io/github/issues/yourusername/repo-name?style=flat-square&logo=github&color=F87171)]
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)]
+
+<br/>
+
+[🌐 Live Demo](https://your-demo-link.com) ·
+[📖 Docs](https://your-docs-link.com) ·
+[🐞 Report Bug](https://github.com/yourusername/repo-name/issues) ·
+[✨ Feature Request](https://github.com/yourusername/repo-name/issues)
 
 </div>
 
