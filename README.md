@@ -1,4 +1,4 @@
-#FULL-STACK-DEVELOPMENT
+# frontend_1
 <div align="center">
 
 # 🚀 Full-Stack Course Development
