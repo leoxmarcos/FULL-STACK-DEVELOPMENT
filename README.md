@@ -1,25 +1,26 @@
 <div align="center">
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=34&pause=1200&color=7C7CFF&center=true&vCenter=true&width=900&height=80&lines=🚀+Full-Stack+Development+Mastery;Build+Production-Ready+Web+Apps" />
+<!-- Dark Mode Animated Heading -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=🚀+Full-Stack+Development+Mastery;Build+Production-Ready+Web+Apps" />
 
-### **From Fundamentals → Real-World Full-Stack Applications**
-
-<br/>
-
-[![Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=flat-square&logo=github&color=7C7CFF)]
-[![Forks](https://img.shields.io/github/forks/yourusername/repo-name?style=flat-square&logo=github&color=38BDF8)]
-[![Issues](https://img.shields.io/github/issues/yourusername/repo-name?style=flat-square&logo=github&color=F87171)]
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)]
+### <span style="color:#E5E7EB">From Fundamentals → Real-World Full-Stack Applications</span>
 
 <br/>
 
-[🌐 Live Demo](https://your-demo-link.com) ·
-[📖 Docs](https://your-docs-link.com) ·
-[🐞 Report Bug](https://github.com/yourusername/repo-name/issues) ·
-[✨ Feature Request](https://github.com/yourusername/repo-name/issues)
+![Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=flat&logo=github&color=0EA5E9)
+![Forks](https://img.shields.io/github/forks/yourusername/repo-name?style=flat&logo=github&color=22D3EE)
+![Issues](https://img.shields.io/github/issues/yourusername/repo-name?style=flat&logo=github&color=F87171)
+![License](https://img.shields.io/badge/License-MIT-4ADE80?style=flat)
+
+<br/>
+
+[🌐 <span style="color:#38BDF8">Live Demo</span>](https://your-demo-link.com) •
+[📖 <span style="color:#38BDF8">Docs</span>](https://your-docs-link.com) •
+[🐞 <span style="color:#38BDF8">Report Bug</span>](https://github.com/yourusername/repo-name/issues) •
+[✨ <span style="color:#38BDF8">Feature Request</span>](https://github.com/yourusername/repo-name/issues)
 
 </div>
+
 
 ---
 
