@@ -5,8 +5,6 @@
 
 ### <span style="color:#E5E7EB">From Fundamentals → Real-World Full-Stack Applications</span>
 
-<br/>
-
 [🌐 <span style="color:#38BDF8">Live Demo</span>](https://your-demo-link.com) •
 [📖 <span style="color:#38BDF8">Docs</span>](https://your-docs-link.com) •
 [🐞 <span style="color:#38BDF8">Report Bug</span>](https://github.com/yourusername/repo-name/issues) •
