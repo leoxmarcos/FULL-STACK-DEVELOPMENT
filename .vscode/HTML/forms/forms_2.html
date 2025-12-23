@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>University Registration form</h1>
+    <p>Please fill out the form</p>
+    <hr>
+    <form>
+    <h2>Personal Details</h2>
+
+    <label for="firstname">First Name:</label>
+    <input type="text" name="username" id="firstname" placeholder="eg.Arjun" required>
+    
+    <br><br>
+
+    <label for="lastname">Last Name:</label>
+    <input type="text" name="username" id="lastname" placeholder="eg.Sharma" required>
+
+    <br><br>
+    
+    <label for="DOB">Date of Birth:</label>
+    <input type="date" name="userdob" id="DOB">
+
+    <h3>Gender:</h3>
+    
+    <input type="radio" name="gender" id="male" value="male" >
+    <label for="male">Male</label>
+
+    <br>
+    <input type="radio" name="gender" id="female" value="female" >
+    <label for="female">Female</label>
+
+    <br>
+    <input type="radio" name="gender" id="male" value="other" >
+    <label for="other">Other</label>
+    
+    <h3>Upload Your Photo</h3>
+    
+    <input type="file" name="file"> 
+    <hr>
+
+    <h2>Contact Information</h2>
+    <label for="email">Email Address:</label>
+    <input type="email" name="email" id="email" placeholder="you@email.com">
+    <br><br>
+    <label for="phoneno">Phone Number:</label>
+    <input type="number" name="phone no" id="phoneno" placeholder="e.g., 7237024693">
+    <br><br>
+    <label for="mailaddress">Mailing Address:</label>
+    <br>
+
+    <textarea name="Address" id="Address" rows="10" cols="30" placeholder="Street Address, City, State, ZIP Code "></textarea>
+
+    <hr>
+    <h2>Academic Information</h2>
+    <br>
+    <label for="course">Select Your Course: </label>
+    <br>
+    <select name="course" id="course">
+        <option value="--Choose a course--">--Choose a course--</option>
+        <option value="CSE">CSE</option>
+        <option value="ME">ME</option>
+        <option value="IT">IT</option>
+    </select>
+
+    <br><br>
+    
+    <label for="activity">Extracurricular Interest</label>
+    <br>
+    
+    <input type="checkbox" name="interest" id="sports" value="sports">
+    <label for="sports">Sports</label>
+
+    <br>
+    <input type="checkbox" name="interest" id="music & arts" value="music & arts">
+    <label for="music & arts">Music & Arts</label>
+
+    <br>
+    <input type="checkbox" name="interest" id="technology club" value="technology club">
+    <label for="technology club">Technology Club</label>
+    
+    <br>
+    <input type="checkbox" name="interest" id="volunteering" value="volunteering">
+    <label for="volunteering">Volunteering</label>
+
+    <hr>
+
+    <h2>Create Your Account</h2>
+    <br>
+
+    <label for="password">Create a Password:</label>
+    <input type="password" name="password" id="password">
+    <br><br>
+    <label for="question">Security Question:</label>
+    <select name="question" id="question">
+        <option value="What was your first pet's name">What was your first pet's name</option>
+       <option value="What is your grandmother's middle name?">What is your grandmother's middle name?</option>
+       <option value="What was the name of your first-grade teacher?">What was the name of your first-grade teacher?</option>
+       <option value="What was the make of your first car?">What was the make of your first car?</option>
+    </select>
+    <br><br>
+    <label for="answer">Security Answer:</label>
+    <input type="text" name="answer" id="answer">
+    <br><br>
+    <input type="checkbox" name="term" id="term" value="term">
+    <label for="term">I agree to the Terms and Conditions.</label>
+
+    <hr>
+    <button type="submit">Register</button>
+    <button type="reset">Clear Form</button>
+    </form>
+
+</body>
+</html>
