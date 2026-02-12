@@ -16,7 +16,7 @@
 
 ---
 
-## <span style="color:#22C55E">🌌 About This Repository</span>
+## <span style="color:#22C55E">🪻About This Repository</span>
 
 > **A production-focused Full-Stack Development roadmap**
 
