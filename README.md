@@ -6,10 +6,10 @@
 
 <br/>
 
-[🌐 <span style="color:#22C55E"><b>Live Demo</b></span>](https://your-demo-link.com) •
-[📖 <span style="color:#22C55E"><b>Docs</b></span>](https://your-docs-link.com) •
-[🐞 <span style="color:#22C55E"><b>Report Bug</b></span>](https://github.com/yourusername/repo-name/issues) •
-[✨ <span style="color:#22C55E"><b>Request Feature</b></span>](https://github.com/yourusername/repo-name/issues)
+[🌐<span style="color:#22C55E"><b>Live Demo</b></span>](https://your-demo-link.com) •
+[📖<span style="color:#22C55E"><b>Docs</b></span>](https://your-docs-link.com) •
+[🐞<span style="color:#22C55E"><b>Report Bug</b></span>](https://github.com/yourusername/repo-name/issues) •
+[✨<span style="color:#22C55E"><b>Request Feature</b></span>](https://github.com/yourusername/repo-name/issues)
 
 
 </div>
@@ -22,7 +22,7 @@
 
 This repository is a **structured, end-to-end learning ecosystem** built to transform you into a **job-ready full-stack developer** using **modern tools, best practices, and real-world workflows**.
 
-### <span style="color:#22C55E">🔥 What You’ll Gain</span>
+### <span style="color:#22C55E">📗What You’ll Gain</span>
 - ✔ Strong Web Fundamentals  
 - ✔ Modern Frontend Architecture  
 - ✔ Scalable Backend Systems  
