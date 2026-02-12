@@ -6,12 +6,11 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://your-demo-link.com"><span style="color:#22C55E"><b>🌐 Live Demo</b></span></a> •
-  <a href="https://your-docs-link.com"><span style="color:#22C55E"><b>📖 Docs</b></span></a> •
-  <a href="https://github.com/yourusername/repo-name/issues"><span style="color:#22C55E"><b>🐞 Report Bug</b></span></a> •
-  <a href="https://github.com/yourusername/repo-name/issues"><span style="color:#22C55E"><b>✨ Request Feature</b></span></a>
-</p>
+[🌐 <span style="color:#22C55E"><b>Live Demo</b></span>](https://your-demo-link.com) •
+[📖 <span style="color:#22C55E"><b>Docs</b></span>](https://your-docs-link.com) •
+[🐞 <span style="color:#22C55E"><b>Report Bug</b></span>](https://github.com/yourusername/repo-name/issues) •
+[✨ <span style="color:#22C55E"><b>Request Feature</b></span>](https://github.com/yourusername/repo-name/issues)
+
 
 </div>
 
