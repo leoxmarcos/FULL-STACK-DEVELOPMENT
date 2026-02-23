@@ -1,88 +1,88 @@
 <div align="center">
 
-<!-- Dark Mode Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=🚀+Full-Stack+Development+Mastery;Build+Production-Ready+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=1200&color=22C55E&center=true&vCenter=true&width=900&height=90&lines=🚀+Full-Stack+Development+Mastery;Build+Production-Ready+Web+Applications;From+Fundamentals+to+Deployment" />
 
-### <span style="color:#E5E7EB">From Fundamentals → Real-World Full-Stack Applications</span>
+### <span style="color:#22C55E">From Fundamentals → Real-World Full-Stack Systems</span>
 
-[🌐 <span style="color:#38BDF8">Live Demo</span>](https://your-demo-link.com) •
-[📖 <span style="color:#38BDF8">Docs</span>](https://your-docs-link.com) •
-[🐞 <span style="color:#38BDF8">Report Bug</span>](https://github.com/yourusername/repo-name/issues) •
-[✨ <span style="color:#38BDF8">Feature Request</span>](https://github.com/yourusername/repo-name/issues)
+<br/>
+
+[🌐<span style="color:#22C55E"><b>Live Demo</b></span>](https://your-demo-link.com) •
+[📖<span style="color:#22C55E"><b>Docs</b></span>](https://your-docs-link.com) •
+[🐞<span style="color:#22C55E"><b>Report Bug</b></span>](https://github.com/yourusername/repo-name/issues) •
+[✨<span style="color:#22C55E"><b>Request Feature</b></span>](https://github.com/yourusername/repo-name/issues)
+
 
 </div>
 
+---
+
+## <span style="color:#22C55E">🪻About This Repository</span>
+
+> **A production-focused Full-Stack Development roadmap**
+
+This repository is a **structured, end-to-end learning ecosystem** built to transform you into a **job-ready full-stack developer** using **modern tools, best practices, and real-world workflows**.
+
+### <span style="color:#22C55E">📗What You’ll Gain</span>
+- ✔ Strong Web Fundamentals  
+- ✔ Modern Frontend Architecture  
+- ✔ Scalable Backend Systems  
+- ✔ Database & API Design  
+- ✔ Authentication & Security  
+- ✔ DevOps & Deployment  
 
 ---
 
-## 🌌 About This Repository
+## <span style="color:#22C55E">💻 Tech Stack</span>
 
-> **An end-to-end, production-focused Full-Stack Development journey**
+### <span style="color:#22C55E">🎨 Frontend</span>
 
-This repository is a **carefully structured learning ecosystem** designed to transform you from a beginner into an **industry-ready full-stack developer**.  
-It blends **strong fundamentals**, **modern frameworks**, and **real-world engineering practices** used in professional software teams.
-
-You’ll move step-by-step through:
-- 🧱 Core web fundamentals  
-- ⚛️ Modern frontend architectures  
-- 🧠 Scalable backend systems  
-- 🗄️ Robust database design  
-- 🔐 Authentication & security best practices  
-- 🚀 Deployment, CI/CD & DevOps workflows  
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=22C55E)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22C55E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=22C55E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22C55E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=22C55E)
 
 ---
-## 💻 Tech Stack
 
-<div>
+### <span style="color:#22C55E">🧠 Backend</span>
 
-### 🎨 Frontend
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22C55E)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=22C55E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22C55E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22C55E)
+
 ---
 
-### 🧠 Backend
- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
- 
+### <span style="color:#22C55E">🗄️ Database</span>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22C55E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22C55E)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=22C55E)
+
 ---
 
-### 🗄️ Database
- 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
- 
+### <span style="color:#22C55E">⚙ DevOps & Tools</span>
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22C55E)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22C55E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=22C55E)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E)
+
 ---
 
-### ⚙️ DevOps & Tools
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-</div>
-
-## 🧭 Learning Flow (Full-Stack Roadmap)
+## <span style="color:#22C55E">🧭 Full-Stack Learning Roadmap</span>
 
 ```txt
-Frontend Basics
+🌱 Web Fundamentals
      ↓
-Advanced Frontend (React + UI)
+🎨 Advanced Frontend
      ↓
-Backend Fundamentals
+🧠 Backend Engineering
      ↓
-Databases & APIs
+🗄️ Databases & APIs
      ↓
-Authentication & Security
+🔐 Authentication & Security
      ↓
-DevOps & Deployment
+⚙ CI/CD & Deployment
      ↓
-Production-Ready Projects 🚀
+🚀 Production-Ready Projects
