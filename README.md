@@ -107,6 +107,8 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
      ↓
 🚀 Production-Ready Projects
 
+```
+
 ---
 
 <div align="center">
