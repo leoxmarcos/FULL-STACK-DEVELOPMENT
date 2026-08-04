@@ -106,3 +106,11 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 ⚙ CI/CD & Deployment
      ↓
 🚀 Production-Ready Projects
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&animation=twinkling"/>
+
+</div>
