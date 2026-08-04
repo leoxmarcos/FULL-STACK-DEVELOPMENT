@@ -28,9 +28,9 @@
 <img src="https://img.shields.io/badge/✨_Request_Feature-14532D?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
 
-<br><br>
+ 
 
-<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true"/>
+<!-- <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true"/> -->
 
 </div>
 
