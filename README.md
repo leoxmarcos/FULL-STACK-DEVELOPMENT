@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=🚀%20Full-Stack%20Development%20Mastery&fontSize=42&fontAlignY=38&fontColor=FFFFFF&animation=twinkling&desc=From%20Fundamentals%20%E2%86%92%20Real-World%20Full-Stack%20Systems&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=🚀%20Full-Stack%20Development%20Mastery&fontSize=38&fontAlignY=38&fontColor=FFFFFF&animation=twinkling&desc=From%20Fundamentals%20%E2%86%92%20Real-World%20Full-Stack%20Systems&descAlignY=60&descSize=18"/>
 
 <br>
 
@@ -112,6 +112,6 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=⭐%20Happy%20Coding!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=📗%20Happy%20Coding!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
 
 </div>
