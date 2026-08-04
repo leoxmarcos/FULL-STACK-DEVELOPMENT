@@ -8,10 +8,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=5000&color=4ADE80&center=true&vCenter=true&width=700&height=35&lines=From+Fundamentals+%E2%86%92+Real-World+Full-Stack+Systems" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=5000&color=4ADE80&center=true&vCenter=true&width=700&height=35&lines=From+Fundamentals+%E2%86%92+Real-World+Full-Stack+Systems" /> -->
 
-<br><br>
-
+ 
 <a href="https://your-demo-link.com">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
@@ -113,6 +112,6 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=⭐%20Happy%20Coding!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
 
 </div>
