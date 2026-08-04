@@ -112,6 +112,6 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=📗%20Happy%20Coding!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=📗%20CLEAN%20CODING!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
 
 </div>
