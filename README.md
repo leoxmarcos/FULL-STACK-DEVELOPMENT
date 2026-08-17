@@ -1,16 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=1200&color=22C55E&center=true&vCenter=true&width=900&height=90&lines=🚀+Full-Stack+Development+Mastery;Build+Production-Ready+Web+Applications;From+Fundamentals+to+Deployment" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=🚀%20Full-Stack%20Development%20Mastery&fontSize=38&fontAlignY=38&fontColor=FFFFFF&animation=twinkling&desc=From%20Fundamentals%20%E2%86%92%20Real-World%20Full-Stack%20Systems&descAlignY=60&descSize=18"/>
 
-### <span style="color:#22C55E">From Fundamentals → Real-World Full-Stack Systems</span>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=70&lines=🚀+Full-Stack+Development+Mastery;💻+Build+Production-Ready+Applications;⚡+Modern+Frontend+%2B+Backend;🗄️+Databases+%7C+APIs+%7C+Authentication;☁️+Deploy+Like+a+Professional" />
 
-[🌐<span style="color:#22C55E"><b>Live Demo</b></span>](https://your-demo-link.com) •
-[📖<span style="color:#22C55E"><b>Docs</b></span>](https://your-docs-link.com) •
-[🐞<span style="color:#22C55E"><b>Report Bug</b></span>](https://github.com/yourusername/repo-name/issues) •
-[✨<span style="color:#22C55E"><b>Request Feature</b></span>](https://github.com/yourusername/repo-name/issues)
+<br>
 
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=5000&color=4ADE80&center=true&vCenter=true&width=700&height=35&lines=From+Fundamentals+%E2%86%92+Real-World+Full-Stack+Systems" /> -->
+
+ 
+<a href="https://your-demo-link.com">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://your-docs-link.com">
+<img src="https://img.shields.io/badge/📖_Documentation-15803D?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/yourusername/repo-name/issues">
+<img src="https://img.shields.io/badge/🐞_Report_Bug-166534?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/yourusername/repo-name/issues">
+<img src="https://img.shields.io/badge/✨_Request_Feature-14532D?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
+ 
+
+<!-- <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true"/> -->
 
 </div>
 
@@ -86,3 +105,13 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 ⚙ CI/CD & Deployment
      ↓
 🚀 Production-Ready Projects
+
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,25:052E16,55:14532D,80:16A34A,100:22C55E&text=📗%20CLEAN%20CODING!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
+
+</div>
