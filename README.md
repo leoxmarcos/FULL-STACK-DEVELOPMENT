@@ -72,7 +72,7 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 
 ---
 
-### <span style="color:#22C55E">🗄️ Database</span>
+### <span style="color:#22C55E">🗄️Database</span>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22C55E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22C55E)
@@ -89,7 +89,7 @@ This repository is a **structured, end-to-end learning ecosystem** built to tran
 
 ---
 
-## <span style="color:#22C55E">🧭 Full-Stack Learning Roadmap</span>
+## <span style="color:#22C55E">🧭Full-Stack Learning Roadmap</span>
 
 ```txt
 🌱 Web Fundamentals
